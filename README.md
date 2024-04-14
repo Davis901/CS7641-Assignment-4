@@ -1,5 +1,5 @@
 # CS7641-Assignment4
-Github: https://github.com/Davis901/CS7641-Assignment4/tree/main
+Github: https://github.com/Davis901/CS7641-Assignment-4/tree/main
 
 This project consists of two jupyter notebook processing Markov Deicision Prcess with Reinforcement Learning. Notebooks are turned specicifally for datasets: BlackJack and Frozen Lake environment.
 
